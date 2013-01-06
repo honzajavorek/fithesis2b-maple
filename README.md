@@ -10,6 +10,10 @@ I'm not willing to continue in development as I'm done with my schooling. Projec
 
 Please follow instructions mentioned on sites about former versions of this style (see below).
 
+## Warning
+
+PDF version of faculty logo seems to be quirky. On output of some printers (including those in thesis-printing companies) it appeares distorted and unreadable. Better [make your own version](http://www.fi.muni.cz/~sojka/fi-logo/) and first try to print it before you rely on my version (trust me, having such issue while trying to print your thesis on last minute is not a lovely experience). Pull requests trying to fix this problem are very welcome.
+
 ## Versions
 
 ### Original fithesis style, RNDr. Jan Pavlovič, Ph.D.
